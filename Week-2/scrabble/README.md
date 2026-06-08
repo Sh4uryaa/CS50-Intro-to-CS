@@ -10,5 +10,6 @@ This program determines the winner of a Scrabble round between two players based
 
 ## Compile & Run
 ```
-gcc scrabble.c -o scrabble ./scrabble
+gcc scrabble.c -o scrabble
+./scrabble
 ```
