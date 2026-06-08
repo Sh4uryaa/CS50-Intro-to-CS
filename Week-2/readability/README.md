@@ -10,5 +10,6 @@ This program calculates the approximate grade level needed to comprehend a given
 
 ## Compile & Run
 ```
-gcc readability.c -o readability ./readability
+gcc readability.c -o readability
+./readability
 ```
