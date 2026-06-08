@@ -9,5 +9,6 @@ This program determines the winner of a Scrabble round between two players based
 - Declares the higher-scoring player as the winner, or a tie if scores are equal
 
 ## Compile & Run
-
+```
 gcc scrabble.c -o scrabble ./scrabble
+```
