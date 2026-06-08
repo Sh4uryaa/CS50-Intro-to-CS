@@ -9,5 +9,6 @@ This program calculates the approximate grade level needed to comprehend a given
 - Outputs the grade level, or "Before Grade 1" / "Grade 16+" for edge cases
 
 ## Compile & Run
-
+```
 gcc readability.c -o readability ./readability
+```
