@@ -8,5 +8,7 @@ This program prints a double-sided pyramid of a given height using a hash patter
 - Prints a left and right aligned pyramid separated by a space
 
 ## Compile & Run
-
-gcc mario.c -o mario ./mario
+```
+gcc mario.c -o mario
+./mario
+```
