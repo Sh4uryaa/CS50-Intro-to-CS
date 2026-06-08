@@ -12,5 +12,7 @@ practice loops, conditionals, and integer arithmetic in C.
 - Identifies card type based on prefix and length
 
 ## Compile & Run
+```
 gcc credit.c -o credit
 ./credit
+```
