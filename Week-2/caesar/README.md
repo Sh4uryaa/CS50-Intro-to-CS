@@ -10,5 +10,6 @@ This program encrypts messages using Caesar's cipher, shifting each letter in th
 - Preserves case and leaves non-alphabetical characters unchanged
 
 ## Compile & Run
-
+```
 gcc caesar.c -o caesar ./caesar 3
+```
