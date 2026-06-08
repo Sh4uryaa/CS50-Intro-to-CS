@@ -10,5 +10,6 @@ This program calculates the minimum number of coins needed to make change using 
 
 ## Compile & Run
 ```
-gcc cash.c -o cash ./cash
+gcc cash.c -o cash
+./cash
 ```
